@@ -1,0 +1,1166 @@
+[
+    {
+        "question": "prognoza pogody",
+        "answer": "weather forecast"
+    },
+    {
+        "question": "zanieczyszczenie; skażenie",
+        "answer": "pollution"
+    },
+    {
+        "question": "energia",
+        "answer": "energy"
+    },
+    {
+        "question": "wycieczka jednodniowa",
+        "answer": "day out"
+    },
+    {
+        "question": "oddalony; odległy",
+        "answer": "remote"
+    },
+    {
+        "question": "mroźny; lodowaty",
+        "answer": "freezing"
+    },
+    {
+        "question": "bzdury; śmiecie; graty",
+        "answer": "rubbish"
+    },
+    {
+        "question": "wyrzucać; pozbywać się",
+        "answer": "throw away"
+    },
+    {
+        "question": "paliwo kopalne",
+        "answer": "fossil fuel"
+    },
+    {
+        "question": "naprawdę; faktycznie; właściwie",
+        "answer": "actually"
+    },
+    {
+        "question": "dwutlenek węgla",
+        "answer": "carbon dioxide"
+    },
+    {
+        "question": "przyjmować; brać na siebie; obejmować (urząd); zakładać; przypuszczać; udawać",
+        "answer": "assume"
+    },
+    {
+        "question": "marnować; tracić",
+        "answer": "waste"
+    },
+    {
+        "question": "wodospad",
+        "answer": "waterfall"
+    },
+    {
+        "question": "wyposażenie; sprzęt",
+        "answer": "equipment"
+    },
+    {
+        "question": "opakowanie",
+        "answer": "packaging"
+    },
+    {
+        "question": "zjeść; pochłonąć",
+        "answer": "consume"
+    },
+    {
+        "question": "kosmopolityczny",
+        "answer": "cosmopolitan"
+    },
+    {
+        "question": "śpiwór",
+        "answer": "sleeping bag"
+    },
+    {
+        "question": "współczujący (komuś)",
+        "answer": "sympathetic"
+    },
+    {
+        "question": "płaca (np. tygodniowa)",
+        "answer": "wages"
+    },
+    {
+        "question": "zmiana klimatu",
+        "answer": "climate change"
+    },
+    {
+        "question": "pustynia",
+        "answer": "desert"
+    },
+    {
+        "question": "wycieczka szkolna",
+        "answer": "school trip"
+    },
+    {
+        "question": "dolina",
+        "answer": "valley"
+    },
+    {
+        "question": "wysypisko śmieci",
+        "answer": "landfill site"
+    },
+    {
+        "question": "fajny; świetny",
+        "answer": "fun"
+    },
+    {
+        "question": "niemożliwy",
+        "answer": "impossible"
+    },
+    {
+        "question": "przekonywać",
+        "answer": "persuade"
+    },
+    {
+        "question": "negatywny; przeczący",
+        "answer": "negative"
+    },
+    {
+        "question": "podekscytowany czymś",
+        "answer": "excited about"
+    },
+    {
+        "question": "zainteresowany czymś",
+        "answer": "interested in"
+    },
+    {
+        "question": "zakwaterowanie",
+        "answer": "accommodation"
+    },
+    {
+        "question": "jaskinia",
+        "answer": "cave"
+    },
+    {
+        "question": "klif",
+        "answer": "cliff"
+    },
+    {
+        "question": "sensacja",
+        "answer": "sensation"
+    },
+    {
+        "question": "zatoka",
+        "answer": "bay"
+    },
+    {
+        "question": "ale",
+        "answer": "but"
+    },
+    {
+        "question": "biomy (wielkie, kuliste szklarnie, w których jest sztucznie odtwarzana dana strefa klimatyczna)",
+        "answer": "biomes"
+    },
+    {
+        "question": "jeść poza domem",
+        "answer": "eat out"
+    },
+    {
+        "question": "owijać wokół",
+        "answer": "wrap around"
+    },
+    {
+        "question": "środowisko życia; siedlisko",
+        "answer": "habitat"
+    },
+    {
+        "question": "wędrowanie, chodzenie na piesze wycieczki",
+        "answer": "hiking"
+    },
+    {
+        "question": "renowacja",
+        "answer": "conservation"
+    },
+    {
+        "question": "jednak; jednakże",
+        "answer": "however"
+    },
+    {
+        "question": "trudno",
+        "answer": "tough"
+    },
+    {
+        "question": "za i przeciw, zalety i wady",
+        "answer": "pros and cons"
+    },
+    {
+        "question": "alternatywa, zamiennik",
+        "answer": "alternative"
+    },
+    {
+        "question": "ścieżka",
+        "answer": "footpath"
+    },
+    {
+        "question": "oznaczać; symbolizować",
+        "answer": "stand for"
+    },
+    {
+        "question": "wzgórze; pagórek",
+        "answer": "hill"
+    },
+    {
+        "question": "szkolna wycieczka edukacyjna",
+        "answer": "field trip"
+    },
+    {
+        "question": "wada; niekorzystne położenie; szkoda",
+        "answer": "disadvantage"
+    },
+    {
+        "question": "z drugiej strony",
+        "answer": "on the other hand"
+    },
+    {
+        "question": "zaleta, korzyść; przewaga",
+        "answer": "advantage"
+    },
+    {
+        "question": "mimo; wbrew",
+        "answer": "despite"
+    },
+    {
+        "question": "obozowisko; pole namiotowe",
+        "answer": "campsite"
+    },
+    {
+        "question": "hulajnoga; skuter",
+        "answer": "scooter"
+    },
+    {
+        "question": "kopuła; sklepienie",
+        "answer": "dome"
+    },
+    {
+        "question": "przejść przez ulicę",
+        "answer": "cross the road"
+    },
+    {
+        "question": "sztuczny",
+        "answer": "artificial"
+    },
+    {
+        "question": "główny; ważniejszy",
+        "answer": "major"
+    },
+    {
+        "question": "rzeźba; rzeźbiarstwo",
+        "answer": "sculpture"
+    },
+    {
+        "question": "tłum",
+        "answer": "crowd"
+    },
+    {
+        "question": "elektryczność",
+        "answer": "electricity"
+    },
+    {
+        "question": "rezerwowy; awaryjny",
+        "answer": "standby"
+    },
+    {
+        "question": "zamiana; wymiana",
+        "answer": "swap"
+    },
+    {
+        "question": "plan; rozkład (zajęć)",
+        "answer": "schedule"
+    },
+    {
+        "question": "kosz na śmieci; skrzynia",
+        "answer": "bin"
+    },
+    {
+        "question": "być w dobrych stosunkach/relacjach z kimś, dogadywać się z kimś",
+        "answer": "get on well with somebody"
+    },
+    {
+        "question": "prawie wcale; ledwo",
+        "answer": "hardly"
+    },
+    {
+        "question": "prawdopodobny",
+        "answer": "probable"
+    },
+    {
+        "question": "apartament",
+        "answer": "apartment"
+    },
+    {
+        "question": "Kopciuszek",
+        "answer": "Cinderella"
+    },
+    {
+        "question": "ślub; wesele",
+        "answer": "wedding"
+    },
+    {
+        "question": "podwieźć",
+        "answer": "give a lift"
+    },
+    {
+        "question": "skała; kamień",
+        "answer": "rock"
+    },
+    {
+        "question": "mundur; mundurek",
+        "answer": "uniform"
+    },
+    {
+        "question": "podstawowy; zasadniczy; prosty",
+        "answer": "basic"
+    },
+    {
+        "question": "wąski; ciasny",
+        "answer": "narrow"
+    },
+    {
+        "question": "ocean",
+        "answer": "ocean"
+    },
+    {
+        "question": "zdjąć",
+        "answer": "take off"
+    },
+    {
+        "question": "recykling",
+        "answer": "recycling"
+    },
+    {
+        "question": "rozedrzeć się, pęknąć",
+        "answer": "split"
+    },
+    {
+        "question": "stary",
+        "answer": "old"
+    },
+    {
+        "question": "w końcu; ostatecznie; w konsekwencji",
+        "answer": "eventually"
+    },
+    {
+        "question": "być w kimś zakochanym",
+        "answer": "be in love with someone"
+    },
+    {
+        "question": "mapa",
+        "answer": "map"
+    },
+    {
+        "question": "krem do opalania",
+        "answer": "suncream"
+    },
+    {
+        "question": "tani",
+        "answer": "cheap"
+    },
+    {
+        "question": "nowiutki",
+        "answer": "brand new"
+    },
+    {
+        "question": "przerabiać (powtórnie); przetwarzać",
+        "answer": "recycle"
+    },
+    {
+        "question": "chodzić z (kimś); spotykać się z (kimś)",
+        "answer": "go out with"
+    },
+    {
+        "question": "zasilanie, prąd",
+        "answer": "power"
+    },
+    {
+        "question": "grzeczny; uprzejmy",
+        "answer": "polite"
+    },
+    {
+        "question": "ładowarka",
+        "answer": "charger"
+    },
+    {
+        "question": "zaręczyć się",
+        "answer": "get engaged"
+    },
+    {
+        "question": "zdradzać (kogoś)",
+        "answer": "cheat on"
+    },
+    {
+        "question": "podkochiwać się w kimś",
+        "answer": "have a crush on"
+    },
+    {
+        "question": "cenny; wartościowy",
+        "answer": "valuable"
+    },
+    {
+        "question": "rozstać się z",
+        "answer": "split up with"
+    },
+    {
+        "question": "woda z kranu",
+        "answer": "tap water"
+    },
+    {
+        "question": "duży",
+        "answer": "big"
+    },
+    {
+        "question": "ubranie wodoodporne",
+        "answer": "waterproof clothes"
+    },
+    {
+        "question": "wrócić do siebie",
+        "answer": "get back together"
+    },
+    {
+        "question": "uzależniony",
+        "answer": "addicted"
+    },
+    {
+        "question": "niepraktyczny",
+        "answer": "impractical"
+    },
+    {
+        "question": "kuchenka turystyczna",
+        "answer": "camping stove"
+    },
+    {
+        "question": "praktyczny",
+        "answer": "practical"
+    },
+    {
+        "question": "niegrzeczny, nieuprzejmy, bezczelny",
+        "answer": "rude"
+    },
+    {
+        "question": "być kimś urzeczonym, darzyć kogoś sympatią",
+        "answer": "fancy"
+    },
+    {
+        "question": "zapraszac kogoś na randkę",
+        "answer": "ask someone out"
+    },
+    {
+        "question": "brzydki",
+        "answer": "ugly"
+    },
+    {
+        "question": "modny",
+        "answer": "fashionable"
+    },
+    {
+        "question": "zakochać się w",
+        "answer": "fall in love with"
+    },
+    {
+        "question": "iść z kimś na randkę",
+        "answer": "go on a date with"
+    },
+    {
+        "question": "pobrać się; wyjść za mąż; ożenić się",
+        "answer": "get married"
+    },
+    {
+        "question": "muzyk\n",
+        "answer": "musician"
+    },
+    {
+        "question": "spokojnie",
+        "answer": "calmly"
+    },
+    {
+        "question": "elegancki",
+        "answer": "smart"
+    },
+    {
+        "question": "przerażony",
+        "answer": "frightened"
+    },
+    {
+        "question": "drzwi obrotowe",
+        "answer": "revolving door"
+    },
+    {
+        "question": "wspak",
+        "answer": "backwards"
+    },
+    {
+        "question": "udowadniać; okazywać się",
+        "answer": "prove"
+    },
+    {
+        "question": "rozczarowany",
+        "answer": "disappointed"
+    },
+    {
+        "question": "willa; rezydencja",
+        "answer": "villa"
+    },
+    {
+        "question": "co więcej, ponadto",
+        "answer": "furthermore"
+    },
+    {
+        "question": "nieładny; nieatrakcyjny; przeciętny",
+        "answer": "plain"
+    },
+    {
+        "question": "egzaminator",
+        "answer": "examiner"
+    },
+    {
+        "question": "zapałki",
+        "answer": "matches"
+    },
+    {
+        "question": "zwiedzać okolicę",
+        "answer": "explore the local area"
+    },
+    {
+        "question": "szkoła z internatem",
+        "answer": "boarding school"
+    },
+    {
+        "question": "gorące źródło",
+        "answer": "hot spring"
+    },
+    {
+        "question": "czytać książki",
+        "answer": "read books"
+    },
+    {
+        "question": "latać na paralotni, uprawiać paralotniarstwo",
+        "answer": "go paragliding"
+    },
+    {
+        "question": "hotel",
+        "answer": "hotel"
+    },
+    {
+        "question": "wystawiać; pokazywać",
+        "answer": "exhibit"
+    },
+    {
+        "question": "kolacja",
+        "answer": "supper"
+    },
+    {
+        "question": "traktować; leczyć",
+        "answer": "treat"
+    },
+    {
+        "question": "egzamin na prawo jazdy",
+        "answer": "driving test"
+    },
+    {
+        "question": "dziecko o wyjątkowym talencie, cudowne dziecko",
+        "answer": "child prodigy"
+    },
+    {
+        "question": "rozmawiać przez telefon",
+        "answer": "talk on the phone"
+    },
+    {
+        "question": "rozrywka; rozproszenie (uwagi)",
+        "answer": "distraction"
+    },
+    {
+        "question": "na szczęście",
+        "answer": "luckily"
+    },
+    {
+        "question": "posiadłość; dobytek; posiadanie",
+        "answer": "possession"
+    },
+    {
+        "question": "ustawić budzik",
+        "answer": "set an alarm"
+    },
+    {
+        "question": "bochenek",
+        "answer": "loaf"
+    },
+    {
+        "question": "nieprzemakalny",
+        "answer": "waterproof"
+    },
+    {
+        "question": "w żywych kolorach",
+        "answer": "brightly-coloured"
+    },
+    {
+        "question": "semestr",
+        "answer": "term"
+    },
+    {
+        "question": "projekt",
+        "answer": "design"
+    },
+    {
+        "question": "niesprawiedliwy",
+        "answer": "unfair"
+    },
+    {
+        "question": "wolny",
+        "answer": "slow"
+    },
+    {
+        "question": "wrażenie",
+        "answer": "impression"
+    },
+    {
+        "question": "kółko zainteresowań",
+        "answer": "after-school club"
+    },
+    {
+        "question": "rozkład (np. jazdy); plan (lekcji); harmonogram",
+        "answer": "timetable"
+    },
+    {
+        "question": "pochylać się",
+        "answer": "bend down"
+    },
+    {
+        "question": "winny",
+        "answer": "guilty"
+    },
+    {
+        "question": "kolejka",
+        "answer": "queue"
+    },
+    {
+        "question": "namiot",
+        "answer": "tent"
+    },
+    {
+        "question": "gładki; nieładny; pospolity",
+        "answer": "plain"
+    },
+    {
+        "question": "nie udawać się; oblewać (egzamin)",
+        "answer": "fail"
+    },
+    {
+        "question": "żeglarstwo",
+        "answer": "sailing"
+    },
+    {
+        "question": "wybrzeże",
+        "answer": "coast"
+    },
+    {
+        "question": "postawa; stanowisko; stosunek",
+        "answer": "attitude"
+    },
+    {
+        "question": "zawstydzający; krępujący; wprawiający w zażenowanie",
+        "answer": "embarrassing"
+    },
+    {
+        "question": "cecha",
+        "answer": "quality"
+    },
+    {
+        "question": "peron",
+        "answer": "platform"
+    },
+    {
+        "question": "ścisły; dokładny; surowy; rygorystyczny",
+        "answer": "strict"
+    },
+    {
+        "question": "opieka nad dzieckiem",
+        "answer": "babysitting"
+    },
+    {
+        "question": "wierność",
+        "answer": "fidelity"
+    },
+    {
+        "question": "samochód kempingowy",
+        "answer": "camper van"
+    },
+    {
+        "question": "kosmos; przestrzeń kosmiczna",
+        "answer": "space"
+    },
+    {
+        "question": "kosztować",
+        "answer": "cost"
+    },
+    {
+        "question": "wygodny; dogodny",
+        "answer": "convenient"
+    },
+    {
+        "question": "powieść",
+        "answer": "novel"
+    },
+    {
+        "question": "nieschludny",
+        "answer": "untidy"
+    },
+    {
+        "question": "stosunkowo, względnie",
+        "answer": "relatively"
+    },
+    {
+        "question": "skakać ze spadochronem",
+        "answer": "parachute"
+    },
+    {
+        "question": "bieżący; aktualny",
+        "answer": "current"
+    },
+    {
+        "question": "zakres; obszar; skala; zasięg",
+        "answer": "range"
+    },
+    {
+        "question": "garnitur",
+        "answer": "suit"
+    },
+    {
+        "question": "stopniowy",
+        "answer": "gradual"
+    },
+    {
+        "question": "redukować; zmniejszać",
+        "answer": "reduce"
+    },
+    {
+        "question": "znikać",
+        "answer": "disappear"
+    },
+    {
+        "question": "drobny; malutki",
+        "answer": "tiny"
+    },
+    {
+        "question": "atrakcja turystyczna",
+        "answer": "tourist attraction"
+    },
+    {
+        "question": "ciężki; ociężały; silny; mocny",
+        "answer": "heavy"
+    },
+    {
+        "question": "odpoczywać przy basenie",
+        "answer": "relax by the pool"
+    },
+    {
+        "question": "motywacja",
+        "answer": "motivation"
+    },
+    {
+        "question": "zdobywać doświadczenie zawodowe",
+        "answer": "do work experience"
+    },
+    {
+        "question": "czesne",
+        "answer": "fee"
+    },
+    {
+        "question": "stopniowo",
+        "answer": "gradually"
+    },
+    {
+        "question": "rozwód",
+        "answer": "divorce"
+    },
+    {
+        "question": "wagonik kolejki linowej",
+        "answer": "cable car"
+    },
+    {
+        "question": "kompozytor",
+        "answer": "composer"
+    },
+    {
+        "question": "dzika przyroda",
+        "answer": "wildlife"
+    },
+    {
+        "question": "rozpraszający",
+        "answer": "distracting"
+    },
+    {
+        "question": "zapytanie",
+        "answer": "enquiry"
+    },
+    {
+        "question": "luźny; workowaty",
+        "answer": "baggy"
+    },
+    {
+        "question": "reklama; ogłoszenie",
+        "answer": "advertisement"
+    },
+    {
+        "question": "jazda konna",
+        "answer": "horse riding"
+    },
+    {
+        "question": "skrzypce",
+        "answer": "violin"
+    },
+    {
+        "question": "zebranie; zgromadzenie; apel",
+        "answer": "assembly"
+    },
+    {
+        "question": "przygotowywać",
+        "answer": "arrange"
+    },
+    {
+        "question": "powtarzać (zakres materiału)",
+        "answer": "revise"
+    },
+    {
+        "question": "twardy; trudny",
+        "answer": "hard"
+    },
+    {
+        "question": "parafrazować",
+        "answer": "paraphrase"
+    },
+    {
+        "question": "CV, życiorys",
+        "answer": "CV"
+    },
+    {
+        "question": "chleb",
+        "answer": "bread"
+    },
+    {
+        "question": "panna młoda",
+        "answer": "bride"
+    },
+    {
+        "question": "rozwieść się",
+        "answer": "get divorced"
+    },
+    {
+        "question": "zestresowany",
+        "answer": "stressed"
+    },
+    {
+        "question": "pożyczone",
+        "answer": "borrowed"
+    },
+    {
+        "question": "oferta; propozycja",
+        "answer": "offer"
+    },
+    {
+        "question": "zadanie",
+        "answer": "task"
+    },
+    {
+        "question": "dobry",
+        "answer": "good"
+    },
+    {
+        "question": "zazdrosny; zawistny",
+        "answer": "jealous"
+    },
+    {
+        "question": "rozluźniony; zrelaksowany; odprężony",
+        "answer": "relaxed"
+    },
+    {
+        "question": "niewygodny",
+        "answer": "uncomfortable"
+    },
+    {
+        "question": "natychmiastowy; pilny",
+        "answer": "immediate"
+    },
+    {
+        "question": "dostać złą ocenę",
+        "answer": "get a bad mark"
+    },
+    {
+        "question": "wakat; wolna posada",
+        "answer": "vacancy"
+    },
+    {
+        "question": "bilet pierwszej klasy",
+        "answer": "first class ticket"
+    },
+    {
+        "question": "mnóstwo; dużo; obfitość",
+        "answer": "plenty"
+    },
+    {
+        "question": "w niepełnym wymiarze godzin",
+        "answer": "part-time"
+    },
+    {
+        "question": "oczekiwać na; cieszyć się na; nie móc się doczekać",
+        "answer": "look forward to"
+    },
+    {
+        "question": "przekazywać ",
+        "answer": "pass on"
+    },
+    {
+        "question": "iść według mapy",
+        "answer": "follow a map"
+    },
+    {
+        "question": "wziąć udział w konkursie talentów",
+        "answer": "enter a talent show"
+    },
+    {
+        "question": "decyzja",
+        "answer": "decision"
+    },
+    {
+        "question": "plecak",
+        "answer": "rucksack"
+    },
+    {
+        "question": "biuro rzeczy znalezionych",
+        "answer": "lost property office"
+    },
+    {
+        "question": "wypadek",
+        "answer": "accident"
+    },
+    {
+        "question": "zwyciężyć w zawodach",
+        "answer": "win a competition"
+    },
+    {
+        "question": "ustanawiać cele",
+        "answer": "set goals"
+    },
+    {
+        "question": "ogólnie rzecz biorąc",
+        "answer": "on the whole"
+    },
+    {
+        "question": "drewno",
+        "answer": "wood"
+    },
+    {
+        "question": "serial; seria",
+        "answer": "series"
+    },
+    {
+        "question": "radzić sobie z",
+        "answer": "deal with"
+    },
+    {
+        "question": "niepełnosprawność",
+        "answer": "disability"
+    },
+    {
+        "question": "szkoła żeńska; szkoła męska",
+        "answer": "single-sex school"
+    },
+    {
+        "question": "lekki",
+        "answer": "light"
+    },
+    {
+        "question": "piękny",
+        "answer": "beautiful"
+    },
+    {
+        "question": "spóźnić się na połączenie",
+        "answer": "miss the connection"
+    },
+    {
+        "question": "dopuszczanie; wstęp; dostęp; przyznanie",
+        "answer": "admission"
+    },
+    {
+        "question": "szkoda",
+        "answer": "shame"
+    },
+    {
+        "question": "męczący",
+        "answer": "tiring"
+    },
+    {
+        "question": "streścić, podsumować",
+        "answer": "summarise"
+    },
+    {
+        "question": "poirytowany; rozdrażniony",
+        "answer": "annoyed"
+    },
+    {
+        "question": "ciągłość",
+        "answer": "continuity"
+    },
+    {
+        "question": "zafascynowany",
+        "answer": "fascinated"
+    },
+    {
+        "question": "wspinaczka",
+        "answer": "rock climbing"
+    },
+    {
+        "question": "spokojny; opanowany; wyrozumiały; niefrasobliwy",
+        "answer": "easy-going"
+    },
+    {
+        "question": "zrobić przerwę",
+        "answer": "take a break"
+    },
+    {
+        "question": "koncentrować się",
+        "answer": "concentrate"
+    },
+    {
+        "question": "biwakowanie",
+        "answer": "camping"
+    },
+    {
+        "question": "ubezpieczenie",
+        "answer": "insurance"
+    },
+    {
+        "question": "przenocować",
+        "answer": "stay over-night"
+    },
+    {
+        "question": "nawiasem mówiąc; przy okazji",
+        "answer": "incidentally"
+    },
+    {
+        "question": "obraz",
+        "answer": "painting"
+    },
+    {
+        "question": "schludny",
+        "answer": "tidy"
+    },
+    {
+        "question": "dokładny; ścisły; bezbłędny",
+        "answer": "accurate"
+    },
+    {
+        "question": "oddać pracę domową",
+        "answer": "hand in homework"
+    },
+    {
+        "question": "pytać o drogę",
+        "answer": "ask for directions"
+    },
+    {
+        "question": "dom towarowy",
+        "answer": "department store"
+    },
+    {
+        "question": "znęcać się, gnębić, prześladować",
+        "answer": "bully"
+    },
+    {
+        "question": "galeria sztuki",
+        "answer": "art gallery"
+    },
+    {
+        "question": "uczucie zmęczenia wywołane długą podróżą lotniczą i zmianą strefy czasu",
+        "answer": "jet lag"
+    },
+    {
+        "question": "skomplikowany",
+        "answer": "complicated"
+    },
+    {
+        "question": "tłumaczyć; przekładać",
+        "answer": "translate"
+    },
+    {
+        "question": "nagle",
+        "answer": "suddenly"
+    },
+    {
+        "question": "dumny; wyniosły",
+        "answer": "proud"
+    },
+    {
+        "question": "zawiadomienie; zapowiedź; ogłoszenie; komunikat",
+        "answer": "announcement"
+    },
+    {
+        "question": "zdawać sobie sprawę z",
+        "answer": "be aware of"
+    },
+    {
+        "question": "pokłócić się",
+        "answer": "fall out"
+    },
+    {
+        "question": "hałas",
+        "answer": "noise"
+    },
+    {
+        "question": "mieszkanie",
+        "answer": "flat"
+    },
+    {
+        "question": "zwyczaj; obyczaj",
+        "answer": "custom"
+    },
+    {
+        "question": "szacunek; podziw; poważanie",
+        "answer": "respect"
+    },
+    {
+        "question": "migdał",
+        "answer": "almond"
+    },
+    {
+        "question": "kompas",
+        "answer": "compass"
+    },
+    {
+        "question": "góra lodowa",
+        "answer": "iceberg"
+    },
+    {
+        "question": "stęskniony za domem (krajem)",
+        "answer": "homesick"
+    },
+    {
+        "question": "złe maniery",
+        "answer": "bad manners"
+    },
+    {
+        "question": "surfing",
+        "answer": "surfing"
+    },
+    {
+        "question": "staromodny; niemodny",
+        "answer": "old-fashioned"
+    },
+    {
+        "question": "zbierać pieniądze na cele dobroczynne",
+        "answer": "raise money for charity"
+    },
+    {
+        "question": "szczęśliwy; zadowolony",
+        "answer": "happy"
+    },
+    {
+        "question": "wygodny",
+        "answer": "comfortable"
+    },
+    {
+        "question": "góra lodowa; lodowiec",
+        "answer": "iceberg"
+    }
+]
